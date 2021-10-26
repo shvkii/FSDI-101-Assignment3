@@ -25,3 +25,44 @@ header{
 footer{
     text-align:center;
 }
+
+.menu{
+    color:whitesmoke;
+    text-align:center ;
+    text-decoration:none;
+    text-shadow: 2px 2px black;
+    margin:5px
+
+}
+
+
+
+
+
+
+
+ul,ol{
+    margin-left:50px;
+}
+ul.projects{
+    background-color:navajowhite;
+    padding:20px;
+}
+ul li{
+    background-color:teal;
+    margin:5px;
+    padding:5px;
+}
+
+ol{
+  background-color: blue;
+  padding:20px;
+  margin:20; 
+}
+
+ol li{
+background-color: gray;
+margin:10px;
+padding:10px;
+color: white;
+}
